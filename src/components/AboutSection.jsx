@@ -14,15 +14,16 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              Freelance software engineer experienced in delivering modern web
-              applications for diverse clients, focusing on clean, scalable, and
-              user-centered solutions across the full development stack.
+              Freelance software engineer and student in Networks and
+              Information Systems Engineering (IRISI), building modern web
+              applications for diverse projects with a focus on clean, scalable,
+              and user-centered solutions.
             </p>
 
             <p className="text-muted-foreground">
-              Alongside development, I actively work with DevOps practices,
-              exploring cloud infrastructure, automation, and system design to
-              build efficient, reliable, and well-integrated systems.
+              Alongside development, I work with DevOps practices, exploring
+              cloud infrastructure, automation, and system design to create
+              efficient, reliable, and well-integrated systems.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">

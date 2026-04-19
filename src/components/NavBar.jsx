@@ -62,7 +62,7 @@ export const NavBar = () => {
             className="text-xl font-bold text-primary"
             href="#hero"
             onClick={() => setIsOpen(false)}>
-            Portfolio
+            OB.
           </a>
 
           <div className="flex items-center gap-2 sm:gap-3 md:gap-4">
@@ -118,7 +118,6 @@ export const NavBar = () => {
           ))}
         </div>
       </div>
-
     </>
   );
 };
