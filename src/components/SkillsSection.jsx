@@ -5,11 +5,11 @@ const skills = [
   { name: "HTML/CSS", level: 85, category: "frontend" },
   { name: "JavaScript", level: 80, category: "frontend" },
   { name: "React", level: 75, category: "frontend" },
+  { name: "TypeScript", level: 65, category: "frontend" },
 
   // Backend
   { name: "PHP", level: 80, category: "backend" },
   { name: "Laravel", level: 78, category: "backend" },
-  { name: "Python", level: 70, category: "backend" },
 
   // DevOps & Cloud
   { name: "Linux", level: 75, category: "devops" },
@@ -29,7 +29,7 @@ const skills = [
   { name: "Java", level: 65, category: "programming" },
   { name: "C", level: 60, category: "programming" },
   { name: "C++", level: 60, category: "programming" },
-  { name: "TypeScript", level: 65, category: "programming" },
+  { name: "Python", level: 70, category: "programming" },
 
   // Tools & Environment
   { name: "VS Code", level: 85, category: "tools" },

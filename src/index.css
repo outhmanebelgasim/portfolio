@@ -138,11 +138,9 @@
 }
 
 @utility cosmic-button {
-  @apply px-6 py-4 rounded-full bg-primary font-medium 
+  @apply px-4 py-2 rounded-full bg-primary font-medium 
          transition-all duration-300 hover:scale-105 active:scale-95;
-  color: hsl(
-    var(--primary-foreground)
-  ); /* FIXED (no text-primary-foreground) */
+  color: hsl(var(--primary-foreground));
 }
 
 .cosmic-button:hover {

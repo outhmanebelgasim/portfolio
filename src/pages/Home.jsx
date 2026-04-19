@@ -1,5 +1,9 @@
 import { NavBar } from "../components/NavBar";
+import { HeroSection } from "../components/HeroSection";
 import { StarBackground } from "@/components/StarBackground";
+import { AboutSection } from "../components/AboutSection";
+import { SkillsSection } from "../components/SkillsSection";
+import { ProjectSection } from "../components/ProjectSection";
 
 export const Home = () => {
   return (
@@ -9,6 +13,12 @@ export const Home = () => {
       {/* NavBar*/}
       <NavBar />
       {/* Main Content */}
+      <main>
+        <HeroSection />
+        <AboutSection />
+        <SkillsSection />
+        <ProjectSection />
+      </main>
 
       {/* Footer */}
     </div>
